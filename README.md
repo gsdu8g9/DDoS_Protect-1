@@ -1,1 +1,1 @@
-$ DDoS_Proect
+$ DDoS_Protect
